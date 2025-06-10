@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <footer className="p-4 bg-white shadow md:flex md:items-center md:justify-center dark:bg-gray-800">
       <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
-        <Link to="/#movie-list" className="flex items-center">
+        <Link to="/" className="flex items-center">
           <img src={LogoImg} className="mr-2 h-8 sm:h-9" alt="CineFriend Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             CineFriend
