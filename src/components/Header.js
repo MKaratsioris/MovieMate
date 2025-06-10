@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import { Link, NavLink, useNavigate } from "react-router-dom";
-import Logo from "../assets/log.svg";
+import Logo from "../assets/favicon.ico";
 
 export const Header = () => {
   const [hidden, setHidden] = useState(true);
