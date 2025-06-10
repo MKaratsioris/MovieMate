@@ -1,1 +1,1 @@
-# MovieMate
+# CineFriend
